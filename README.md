@@ -58,11 +58,11 @@ Graduando em Análise de Sistemas, desenvolvedor backend júnior com experiênci
 
 ## 🤝 Vamos Conectar?
 
-📧 **E-mail**: [mauricioccogo@email.com](mailto:mauricioccogo@gmail.com)  
+📧 **E-mail**: [mauricioccogo@gmail.com](mailto:mauricioccogo@gmail.com)  
 🔗 **LinkedIn**: [linkedin.com/in/Mauricioccogo](https://www.linkedin.com/in/mauricioccogo/)  
 
 💬 Sempre aberto(a) para colaborar e aprender juntos!
 
 ---
 
-✨ _“Seja a mudança que você quer ver no mundo do código!”_ ✨
+✨ _“"A vida é curta, e o tempo que desperdiçamos lamentando ou temendo as dificuldades é tempo que não voltaremos a ter." – Marco Aurélio_ ✨
