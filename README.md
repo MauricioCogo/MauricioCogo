@@ -52,6 +52,7 @@ Graduando em Análise de Sistemas, desenvolvedor backend júnior com experiênci
 ## 📊 Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MauricioCogo&show_icons=true&theme=radical&count_private=true)  
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioCogo&layout=compact&theme=radical)
 
 ---
 
