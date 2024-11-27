@@ -35,13 +35,13 @@ Graduando em Análise de Sistemas, desenvolvedor backend júnior com experiênci
 
 ## 🌟 Projetos em Destaque
 
-- 🔍 **[Back-end do meu projeto para o 30º Encontrão](https://github.com/MauricioCogo/encontrao-api)**  
+- 🔍 **[Back-end do meu projeto para o 30º Encontrão](https://github.com/MauricioCog/encontrao-api)**  
   Back-end desenvolvido com Kotlin utilizando Spring Boot.
 
-- 🎭 **[Front-end do meu projeto para o 30º Encontrão](https://github.com/MauricioCogo/encontrao-forntend-reactnative)**  
+- 🎭 **[Front-end do meu projeto para o 30º Encontrão](https://github.com/MauricioCog/encontrao-forntend-reactnative)**  
   Front-end desenvolvido em React Native com intuito de auxiliar os estudantes com mapa interativo, cardápio das refeições, provas campeiras e apresentações.
 
-- 🌎 **[Aplicativo Ifome](https://github.com/MauricioCogo/ifome)**  
+- 🌎 **[Aplicativo Ifome](https://github.com/MauricioCog/ifome)**  
   Aplicativo desenvolvido na disciplina Programação para Dispositivos Móveis, onde o usuário pode criar uma conta, logar e pedir uma pizza ou refrigerante. O Front-end foi desenvolvido em Java no Android Studio e o Back-end em PHP, utilizando MySQL como banco de dados.
 
 - 🌎 **[Aplicativo SICORE](https://github.com/rafaelTischler/project_SICORE)**  
@@ -51,8 +51,8 @@ Graduando em Análise de Sistemas, desenvolvedor backend júnior com experiênci
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MauricioCogo&show_icons=true&theme=radical&count_private=true)  
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioCogo&layout=compact&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MauricioCog&show_icons=true&theme=radical&count_private=true)  
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioCog&layout=compact&theme=radical)
 
 ---
 
