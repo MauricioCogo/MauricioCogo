@@ -46,6 +46,9 @@ Graduando em Análise de Sistemas, desenvolvedor backend júnior com experiênci
 
 - 🌎 **[Aplicativo SICORE](https://github.com/rafaelTischler/project_SICORE)**  
   SICORE: Aplicativo mobile que mapeia pontos de coleta de resíduos recicláveis, conectando catadores e população para otimizar rotas e promover sustentabilidade. Onde fiz o back-end em PHP utilizando MySQL como banco de dados.
+  
+- 🚨 **[S.O.S Refugee](https://github.com/MauricioCogo/SOS-Refugee)**  
+  Um aplicativo para ajudar comunidades em risco devido a catástrofes naturais, fornecendo monitoramento climático e mapeamento de zonas seguras. Desenvolvido durante o **VIII Campeonato Code Race**, promovido pelo curso de Bacharelado em Sistemas de Informação da Antonio Meneghetti Faculdade.
 
 ---
 
