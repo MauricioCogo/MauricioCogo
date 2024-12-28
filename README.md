@@ -41,7 +41,7 @@ Graduando em Análise de Sistemas, desenvolvedor backend júnior com experiênci
 - 🎭 **[Front-end do meu projeto para o 30º Encontrão](https://github.com/MauricioCogo/encontrao-forntend-reactnative)**  
   Front-end desenvolvido em React Native com intuito de auxiliar os estudantes com mapa interativo, cardápio das refeições, provas campeiras e apresentações.
 
-- 🌎 **[Aplicativo Ifome](https://github.com/MauricioCogo/ifome)**  
+- 🍴 **[Aplicativo Ifome](https://github.com/MauricioCogo/ifome)**  
   Aplicativo desenvolvido na disciplina Programação para Dispositivos Móveis, onde o usuário pode criar uma conta, logar e pedir uma pizza ou refrigerante. O Front-end foi desenvolvido em Java no Android Studio e o Back-end em PHP, utilizando MySQL como banco de dados.
 
 - 🌎 **[Aplicativo SICORE](https://github.com/rafaelTischler/project_SICORE)**  
