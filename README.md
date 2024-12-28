@@ -14,7 +14,7 @@ Graduando em Análise de Sistemas, desenvolvedor backend júnior com experiênci
 
 🎨 **Meus interesses**: 
 - Frontend: Android Studio, React Native, React  
-- Backend: Kotlin, Spring Boot, Java  
+- Backend: Kotlin, PHP, Java  
 - Banco de dados: PostgreSQL, MySQL  
 
 ☕ Apaixonado(a) por código limpo, boas práticas e café!
