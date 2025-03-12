@@ -5,10 +5,10 @@ Bem-vindo(a) ao meu espaço no GitHub! Aqui você encontrará um mix de projetos
 ---
 
 ## 🚀 Sobre mim
-Graduando em Análise de Sistemas, desenvolvedor backend júnior com experiência em **Java** e **Kotlin**. Meu objetivo é alcançar a posição de desenvolvedor backend sênior.
+Sou graduando em Análise de Sistemas e desenvolvedor backend júnior, com experiência em Java e Kotlin. Meu objetivo é crescer na área e me tornar um desenvolvedor backend sênior, sempre buscando aprimorar minhas habilidades.
 
 💻 **Minha Experiência**:
-- Atualmente, sou bolsista em desenvolvimento Java Back-end com Spring Boot, aprimorando minhas habilidades na criação de APIs robustas e sistemas backend escaláveis.
+- Atualmente, sou bolsista de desenvolvimento backend com Java e Spring Boot, focado na criação de APIs robustas e sistemas escaláveis.
 - Tenho experiência em desenvolvimento de projetos acadêmicos e na criação de soluções específicas para eventos, aplicando conceitos de tecnologia para atender às demandas e melhorar a experiência dos participantes.
 - Atuei como estagiário de Técnico em Informática na Justiça Militar Federal - 3ª Auditoria da 3ª Circunscrição Judiciária Militar, de outubro de 2023 a março de 2024. Nesse período, desenvolvi competências práticas em suporte técnico, manutenção de sistemas e infraestrutura de TI.
 
@@ -23,11 +23,10 @@ Graduando em Análise de Sistemas, desenvolvedor backend júnior com experiênci
 
 ## 🛠️ Tecnologias e Ferramentas
 
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![React Native](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ... e muitas outras que você verá nos meus projetos! 😄
 
@@ -36,19 +35,24 @@ Graduando em Análise de Sistemas, desenvolvedor backend júnior com experiênci
 ## 🌟 Projetos em Destaque
 
 - 🔍 **[Back-end do meu projeto para o 30º Encontrão](https://github.com/MauricioCogo/encontrao-api)**  
-  Back-end desenvolvido com Kotlin utilizando Spring Boot.
+  🛠 Tecnologias: Kotlin, Spring Boot
+  📌 Descrição: Back-end para um aplicativo que auxilia estudantes com funcionalidades como mapa interativo, cardápio, provas campeiras e apresentações.
 
 - 🎭 **[Front-end do meu projeto para o 30º Encontrão](https://github.com/MauricioCogo/encontrao-forntend-reactnative)**  
-  Front-end desenvolvido em React Native com intuito de auxiliar os estudantes com mapa interativo, cardápio das refeições, provas campeiras e apresentações.
+  🛠 Tecnologias: React Native
+  📌 Descrição: Aplicativo desenvolvido para auxiliar estudantes durante o evento, oferecendo um mapa interativo, informações sobre o cardápio das refeições, provas campeiras e apresentações culturais.
 
 - 🍴 **[Aplicativo Ifome](https://github.com/MauricioCogo/ifome)**  
-  Aplicativo desenvolvido na disciplina Programação para Dispositivos Móveis, onde o usuário pode criar uma conta, logar e pedir uma pizza ou refrigerante. O Front-end foi desenvolvido em Java no Android Studio e o Back-end em PHP, utilizando MySQL como banco de dados.
-
+  🛠 Tecnologias: Java (Android Studio), PHP, MySQL
+  📌 Descrição: Aplicativo desenvolvido para pedidos de comida, onde os usuários podem criar contas, fazer login e solicitar refeições.
+  
 - 🌎 **[Aplicativo SICORE](https://github.com/rafaelTischler/project_SICORE)**  
-  SICORE: Aplicativo mobile que mapeia pontos de coleta de resíduos recicláveis, conectando catadores e população para otimizar rotas e promover sustentabilidade. Onde fiz o back-end em PHP utilizando MySQL como banco de dados.
+    🛠 Tecnologias: PHP, Android Studio, MySQL
+    📌 Descrição: Aplicativo mobile que mapeia pontos de coleta de resíduos recicláveis, conectando catadores e a população para otimizar rotas e promover a sustentabilidade. Atuei no desenvolvimento do back-end em PHP e na integração com o banco de dados MySQL.
   
 - 🚨 **[S.O.S Refugee](https://github.com/MauricioCogo/SOS-Refugee)**  
-  Um aplicativo para ajudar comunidades em risco devido a catástrofes naturais, fornecendo monitoramento climático e mapeamento de zonas seguras. Desenvolvido durante o **VIII Campeonato Code Race**, promovido pelo curso de Bacharelado em Sistemas de Informação da Antonio Meneghetti Faculdade.
+  🛠 Tecnologias: PHP, MySQL, React Native
+  📌 Descrição: Aplicativo desenvolvido durante o VIII Campeonato Code Race, com o objetivo de ajudar comunidades em risco devido a catástrofes naturais. A solução oferece monitoramento climático e mapeamento de zonas seguras, garantindo suporte e informação em situações de emergência.
 
 ---
 
