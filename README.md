@@ -32,6 +32,25 @@ Sou graduando em Análise de Sistemas e desenvolvedor backend júnior, com exper
 
 ---
 
+## ☁️ AWS - Cursos e Certificações
+
+Tenho interesse em expandir meus conhecimentos na plataforma AWS e já realizei alguns cursos para aprofundar minhas habilidades em gerenciamento de nuvem, segurança e arquitetura.
+
+### Cursos realizados:
+- **AWS Billing and Cost Management**  
+  Aprendi como gerenciar e otimizar os custos da AWS, utilizando ferramentas de faturamento e controle financeiro.
+
+- **Getting Started with Cloud Acquisition**  
+  Compreendi as bases para a aquisição de soluções em nuvem, incluindo como aproveitar as ofertas e serviços da AWS para otimizar recursos e reduzir custos.
+
+- **Getting Started with the Cloud Essentials**  
+  Desenvolvi uma compreensão sólida sobre os conceitos fundamentais de computação em nuvem, modelos de implantação e serviços de infraestrutura da AWS.
+
+- **AWS Shared Responsibility Model**  
+  Estudei o modelo de responsabilidade compartilhada da AWS, aprendendo como a segurança é distribuída entre a AWS e os clientes para proteger dados, infraestrutura e aplicações.
+
+---
+
 ## 🌟 Projetos em Destaque
 
   - 🔍 Back-end do meu projeto para o 30º Encontrão
