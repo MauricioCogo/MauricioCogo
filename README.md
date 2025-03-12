@@ -34,24 +34,24 @@ Sou graduando em Análise de Sistemas e desenvolvedor backend júnior, com exper
 
 ## 🌟 Projetos em Destaque
 
-  - 🔍 Back-end do meu projeto para o 30º Encontrão\
-    - 🛠 Tecnologias: Kotlin, Spring Boot\
+  - 🔍 Back-end do meu projeto para o 30º Encontrão
+    - 🛠 Tecnologias: Kotlin, Spring Boot
     - 📌 Descrição: Back-end para um aplicativo que auxilia estudantes com funcionalidades como mapa interativo, cardápio, provas campeiras e apresentações.
 
-  - 🎭 Front-end do meu projeto para o 30º Encontrão\
-    - 🛠 Tecnologias: React Native\
+  - 🎭 Front-end do meu projeto para o 30º Encontrão
+    - 🛠 Tecnologias: React Native
     - 📌 Descrição: Aplicativo desenvolvido para auxiliar estudantes durante o evento, oferecendo um mapa interativo, informações sobre o cardápio das refeições, provas campeiras e apresentações culturais.
 
-  - 🍴 Aplicativo Ifome\
-    - 🛠 Tecnologias: Java (Android Studio), PHP, MySQL\
+  - 🍴 Aplicativo Ifome
+    - 🛠 Tecnologias: Java (Android Studio), PHP, MySQL
     - 📌 Descrição: Aplicativo desenvolvido para pedidos de comida, onde os usuários podem criar contas, fazer login e solicitar refeições.
 
-  - 🌎 Aplicativo SICORE\
-    - 🛠 Tecnologias: PHP, Android Studio, MySQL\
+  - 🌎 Aplicativo SICORE
+    - 🛠 Tecnologias: PHP, Android Studio, MySQL
     - 📌 Descrição: Aplicativo mobile que mapeia pontos de coleta de resíduos recicláveis, conectando catadores e a população para otimizar rotas e promover a sustentabilidade. Atuei no desenvolvimento do back-end em PHP e na integração com o banco de dados MySQL.
 
-  - 🚨 S.O.S Refugee\
-    - 🛠 Tecnologias: PHP, MySQL, React Native\
+  - 🚨 S.O.S Refugee
+    - 🛠 Tecnologias: PHP, MySQL, React Native
     - 📌 Descrição: Aplicativo desenvolvido durante o VIII Campeonato Code Race, com o objetivo de ajudar comunidades em risco devido a catástrofes naturais. A solução oferece monitoramento climático e mapeamento de zonas seguras, garantindo suporte e informação em situações de emergência.
 
 ---
