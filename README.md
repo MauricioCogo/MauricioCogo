@@ -36,6 +36,7 @@ Sou graduando em Análise de Sistemas e desenvolvedor backend júnior, com exper
 
   - 🔍 Back-end do meu projeto para o 30º Encontrão
 🛠 Tecnologias: Kotlin, Spring Boot
+
 📌 Descrição: Back-end para um aplicativo que auxilia estudantes com funcionalidades como mapa interativo, cardápio, provas campeiras e apresentações.
 
   - 🎭 Front-end do meu projeto para o 30º Encontrão
