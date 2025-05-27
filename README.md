@@ -8,13 +8,13 @@ Bem-vindo(a) ao meu espaço no GitHub! Aqui você encontrará um mix de projetos
 Sou graduando em Análise de Sistemas e desenvolvedor backend júnior, com experiência em Java e Kotlin. Meu objetivo é crescer na área e me tornar um desenvolvedor backend sênior, sempre buscando aprimorar minhas habilidades.
 
 💻 **Minha Experiência**:
-- Atualmente, sou bolsista de desenvolvimento backend com Java e Spring Boot, focado na criação de APIs robustas e sistemas escaláveis.
+- Atuei com desenvolvimento backend utilizando Java e Spring Boot, com foco na criação de APIs robustas e sistemas escaláveis.
 - Tenho experiência em desenvolvimento de projetos acadêmicos e na criação de soluções específicas para eventos, aplicando conceitos de tecnologia para atender às demandas e melhorar a experiência dos participantes.
 - Atuei como estagiário de Técnico em Informática na Justiça Militar Federal - 3ª Auditoria da 3ª Circunscrição Judiciária Militar, de outubro de 2023 a março de 2024. Nesse período, desenvolvi competências práticas em suporte técnico, manutenção de sistemas e infraestrutura de TI.
 
 🎨 **Meus interesses**: 
 - Frontend: Android Studio, React Native, React  
-- Backend: Kotlin, PHP, Java  
+- Backend: Java, Kotlin, PHP  
 - Banco de dados: PostgreSQL, MySQL  
 
 ☕ Apaixonado(a) por código limpo, boas práticas e café!
