@@ -1,3 +1,4 @@
+
 # 👋 Olá, eu sou Mauricio Carvalho Cogo!
 
 Bem-vindo(a) ao meu espaço no GitHub! Aqui você encontrará um mix de projetos criativos, desafios técnicos e contribuições para a comunidade. 🚀
@@ -5,12 +6,14 @@ Bem-vindo(a) ao meu espaço no GitHub! Aqui você encontrará um mix de projetos
 ---
 
 ## 🚀 Sobre mim
-Sou graduando em Análise de Sistemas e desenvolvedor backend júnior, com experiência em Java e Kotlin. Meu objetivo é crescer na área e me tornar um desenvolvedor backend sênior, sempre buscando aprimorar minhas habilidades.
+Sou graduando em Análise de Sistemas e desenvolvedor backend júnior, com experiência em Java. Busco crescer na área e me tornar um desenvolvedor backend sênior, sempre dedicado a aprimorar minhas habilidades e entregar soluções de qualidade.
 
 💻 **Minha Experiência**:
-- Atuei com desenvolvimento backend utilizando Java e Spring Boot, com foco na criação de APIs robustas e sistemas escaláveis.
-- Tenho experiência em desenvolvimento de projetos acadêmicos e na criação de soluções específicas para eventos, aplicando conceitos de tecnologia para atender às demandas e melhorar a experiência dos participantes.
-- Atuei como estagiário de Técnico em Informática na Justiça Militar Federal - 3ª Auditoria da 3ª Circunscrição Judiciária Militar, de outubro de 2023 a março de 2024. Nesse período, desenvolvi competências práticas em suporte técnico, manutenção de sistemas e infraestrutura de TI.
+- Experiência com desenvolvimento backend utilizando Java e Spring Boot, com foco na criação de APIs robustas e sistemas escaláveis.
+- Estágio como Técnico em Informática na Justiça Militar Federal – 3ª Auditoria da 3ª Circunscrição Judiciária Militar (out/2023 – mar/2024), onde desenvolvi competências práticas em suporte técnico, manutenção de sistemas e infraestrutura de TI.
+- Participação em projetos acadêmicos e soluções tecnológicas para eventos, aplicando conceitos de software para melhorar a experiência dos participantes.
+- Bolsista em Desenvolvimento Back-end na Compass UOL (nov/2024 – abr/2025), com atuação no desenvolvimento de APIs utilizando Java e Spring Boot, integração de serviços e otimização de soluções para alta performance em ambiente remoto.
+- Atualmente estagiando como Técnico de Suporte de Informática no Instituto Federal Farroupilha (IFFAR) (mai/2025 – o momento), com foco em manutenção de equipamentos, suporte a usuários, infraestrutura de redes e apoio à Coordenação de TI.
 
 🎨 **Meus interesses**: 
 - Frontend: Android Studio, React Native, React  
@@ -52,26 +55,35 @@ Tenho interesse em expandir meus conhecimentos na plataforma AWS e já realizei 
 ---
 
 ## 🌟 Projetos em Destaque
-
-  - 🔍 Back-end do meu projeto para o 30º Encontrão
-    - 🛠 Tecnologias: Kotlin, Spring Boot
-    - 📌 Descrição: Back-end para um aplicativo que auxilia estudantes com funcionalidades como mapa interativo, cardápio, provas campeiras e apresentações.
+  - 🧭 VisuAll
+    - 🛠 Tecnologias: Java, Spring Boot, Maven, AWS Rekognition, AWS Translate, Elastic Beanstalk
+    - 📌 Descrição: Aplicativo criado em um hackathon com foco em acessibilidade para pessoas com deficiência visual. O app permite tirar uma foto e ouvir uma audiodescrição gerada automaticamente. Fui responsável pelo desenvolvimento do back-end.
+    - 🔗 [Repositório do projeto VisuAll](https://github.com/CarolBassan/13-Error404NameNotFound)
 
   - 🎭 Front-end do meu projeto para o 30º Encontrão
     - 🛠 Tecnologias: React Native
     - 📌 Descrição: Aplicativo desenvolvido para auxiliar estudantes durante o evento, oferecendo um mapa interativo, informações sobre o cardápio das refeições, provas campeiras e apresentações culturais.
+    - 🔗 [Repositório do frontend do projeto 30º Encontrão](https://github.com/MauricioCogo/encontrao-forntend-reactnative)
+
+  - 🔍 Back-end do meu projeto para o 30º Encontrão
+    - 🛠 Tecnologias: Kotlin, Spring Boot
+    - 📌 Descrição: Back-end para um aplicativo que auxilia estudantes com funcionalidades como mapa interativo, cardápio, provas campeiras e apresentações.
+    - 🔗 [Repositório do backend do projeto 30º Encontrão](https://github.com/MauricioCogo/encontrao-api)
 
   - 🍴 Aplicativo Ifome
     - 🛠 Tecnologias: Java (Android Studio), PHP, MySQL
     - 📌 Descrição: Aplicativo desenvolvido para pedidos de comida, onde os usuários podem criar contas, fazer login e solicitar refeições.
+    - 🔗 [Repositório do projeto Ifome](https://github.com/MauricioCogo/ifome)
 
   - 🌎 Aplicativo SICORE
     - 🛠 Tecnologias: PHP, Android Studio, MySQL
     - 📌 Descrição: Aplicativo mobile que mapeia pontos de coleta de resíduos recicláveis, conectando catadores e a população para otimizar rotas e promover a sustentabilidade. Atuei no desenvolvimento do back-end em PHP e na integração com o banco de dados MySQL.
+    - 🔗 [Repositório do projeto SICORE](https://github.com/MauricioCogo/ap-sicore)
 
   - 🚨 S.O.S Refugee
     - 🛠 Tecnologias: PHP, MySQL, React Native
     - 📌 Descrição: Aplicativo desenvolvido durante o VIII Campeonato Code Race, com o objetivo de ajudar comunidades em risco devido a catástrofes naturais. A solução oferece monitoramento climático e mapeamento de zonas seguras, garantindo suporte e informação em situações de emergência.
+    - 🔗 [Repositório do projeto S.O.S Refugee](https://github.com/MauricioCogo/SOS-Refugee)
 
 ---
 
