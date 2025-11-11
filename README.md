@@ -70,16 +70,6 @@ Tenho interesse em expandir meus conhecimentos na plataforma AWS e já realizei 
     - 📌 Descrição: Back-end para um aplicativo que auxilia estudantes com funcionalidades como mapa interativo, cardápio, provas campeiras e apresentações.
     - 🔗 [Repositório do backend do projeto 30º Encontrão](https://github.com/MauricioCogo/encontrao-api)
 
-  - 🍴 Aplicativo Ifome
-    - 🛠 Tecnologias: Java (Android Studio), PHP, MySQL
-    - 📌 Descrição: Aplicativo desenvolvido para pedidos de comida, onde os usuários podem criar contas, fazer login e solicitar refeições.
-    - 🔗 [Repositório do projeto Ifome](https://github.com/MauricioCogo/ifome)
-
-  - 🌎 Aplicativo SICORE
-    - 🛠 Tecnologias: PHP, Android Studio, MySQL
-    - 📌 Descrição: Aplicativo mobile que mapeia pontos de coleta de resíduos recicláveis, conectando catadores e a população para otimizar rotas e promover a sustentabilidade. Atuei no desenvolvimento do back-end em PHP e na integração com o banco de dados MySQL.
-    - 🔗 [Repositório do projeto SICORE](https://github.com/MauricioCogo/ap-sicore)
-
   - 🚨 S.O.S Refugee
     - 🛠 Tecnologias: PHP, MySQL, React Native
     - 📌 Descrição: Aplicativo desenvolvido durante o VIII Campeonato Code Race, com o objetivo de ajudar comunidades em risco devido a catástrofes naturais. A solução oferece monitoramento climático e mapeamento de zonas seguras, garantindo suporte e informação em situações de emergência.
