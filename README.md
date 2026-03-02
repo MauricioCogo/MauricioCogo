@@ -85,7 +85,7 @@ Tenho interesse em expandir meus conhecimentos na plataforma AWS e já realizei 
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats-8y1y-rdbwq7au3-mauriciocogos-projects.vercel.app/api?username=MauricioCogo&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)
+![Estatísticas do GitHub](github-readme-stats-8y1y.vercel.app/api?username=MauricioCogo&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)
 
 ![Linguagens Mais Usadas](https://github-readme-stats-8y1y-rdbwq7au3-mauriciocogos-projects.vercel.app/api/top-langs/?username=MauricioCogo&layout=compact&theme=radical&cache_seconds=1800)
 
