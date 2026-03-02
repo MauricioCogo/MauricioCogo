@@ -6,19 +6,21 @@ Bem-vindo(a) ao meu espaço no GitHub! Aqui você encontrará um mix de projetos
 ---
 
 ## 🚀 Sobre mim
-Sou graduando em Análise de Sistemas e desenvolvedor backend júnior, com experiência em Java. Busco crescer na área e me tornar um desenvolvedor backend sênior, sempre dedicado a aprimorar minhas habilidades e entregar soluções de qualidade.
+Sou Tecnólogo em Análise e Desenvolvimento de Sistemas e pós-graduando em Engenharia de Software. Atuo como desenvolvedor backend com foco em Java e Spring Boot, construindo APIs REST, modelando bancos de dados relacionais e integrando aplicações com serviços em nuvem.
 
 💻 **Minha Experiência**:
 - Experiência com desenvolvimento backend utilizando Java e Spring Boot, com foco na criação de APIs robustas e sistemas escaláveis.
 - Estágio como Técnico em Informática na Justiça Militar Federal – 3ª Auditoria da 3ª Circunscrição Judiciária Militar (out/2023 – mar/2024), onde desenvolvi competências práticas em suporte técnico, manutenção de sistemas e infraestrutura de TI.
 - Participação em projetos acadêmicos e soluções tecnológicas para eventos, aplicando conceitos de software para melhorar a experiência dos participantes.
 - Bolsista em Desenvolvimento Back-end na Compass UOL (nov/2024 – abr/2025), com atuação no desenvolvimento de APIs utilizando Java e Spring Boot, integração de serviços e otimização de soluções para alta performance em ambiente remoto.
-- Atualmente estagiando como Técnico de Suporte de Informática no Instituto Federal Farroupilha (IFFAR) (mai/2025 – o momento), com foco em manutenção de equipamentos, suporte a usuários, infraestrutura de redes e apoio à Coordenação de TI.
+- Atualmente estagiando como Técnico de Suporte de Informática no Instituto Federal Farroupilha (IFFAR) (mai/2025 – março/2026), com foco em manutenção de equipamentos, suporte a usuários, infraestrutura de redes e apoio à Coordenação de TI.
 
 🎨 **Meus interesses**: 
-- Frontend: Android Studio, React Native, React  
-- Backend: Java, Kotlin, PHP  
-- Banco de dados: PostgreSQL, MySQL  
+- Backend: Java, Spring Boot, APIs REST
+- Banco de Dados: PostgreSQL, MySQL
+- Cloud & DevOps: AWS (EC2, S3, RDS), Docker
+- Ferramentas & Ambiente: Git, Linux
+- Frontend (experiência prévia): React Native, React
 
 ☕ Apaixonado(a) por código limpo, boas práticas e café!
 
@@ -26,10 +28,14 @@ Sou graduando em Análise de Sistemas e desenvolvedor backend júnior, com exper
 
 ## 🛠️ Tecnologias e Ferramentas
 
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-E34F26?logo=git&logoColor=white&style=for-the-badge)
+
 ![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ... e muitas outras que você verá nos meus projetos! 😄
 
