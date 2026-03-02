@@ -81,16 +81,6 @@ Tenho interesse em expandir meus conhecimentos na plataforma AWS e já realizei 
     - 📌 Descrição: Aplicativo desenvolvido durante o VIII Campeonato Code Race, com o objetivo de ajudar comunidades em risco devido a catástrofes naturais. A solução oferece monitoramento climático e mapeamento de zonas seguras, garantindo suporte e informação em situações de emergência.
     - 🔗 [Repositório do projeto S.O.S Refugee](https://github.com/MauricioCogo/SOS-Refugee)
 
----
-
-## 📊 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats-8y1y-rdbwq7au3-mauriciocogos-projects.vercel.app/api?username=MauricioCogo&show_icons=true&theme=radical&count_private=true)
-
-![Linguagens Mais Usadas](https://github-readme-stats-8y1y-rdbwq7au3-mauriciocogos-projects.vercel.app/api/top-langs/?username=MauricioCogo&layout=compact&theme=radical&cache_seconds=1800)
-
----
-
 ## 🤝 Vamos Conectar?
 
 📧 **E-mail**: [mauricioccogo@gmail.com](mailto:mauricioccogo@gmail.com)  
